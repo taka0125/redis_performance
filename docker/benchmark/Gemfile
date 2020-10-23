@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'redis', github: 'taka0125/redis-rb', branch: 'feature/ConfigurableReadpartial'
+gem 'benchmark_driver'

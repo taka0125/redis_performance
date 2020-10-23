@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/taka0125/redis-rb.git
+  revision: fbb2c3b72624c984d0b81865399b4225b0624af6
+  branch: feature/ConfigurableReadpartial
+  specs:
+    redis (4.2.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark_driver (0.15.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark_driver
+  redis!
+
+BUNDLED WITH
+   2.1.4
